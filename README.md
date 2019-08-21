@@ -1,6 +1,10 @@
 # Image Search discord.js
 With this bot you can search for image all over the internet and get the result in a navigation embed!
 
+## Usage
+Use the command "img" to get an image based on your preferences.  
+You can get another image by typing "next" or quit the system by typing "quit"  
+![image](https://i.imgur.com/n5Ppcxc.png)
 ## Initialation 
 First thing first you need to get an API key by creating a new google project using the Custom Search API
 ![custom search api](https://i.imgur.com/bx1Iczo.png)  
